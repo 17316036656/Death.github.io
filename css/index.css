@@ -1,0 +1,1023 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031}}
+.header {
+  width: 100%;
+  height: 60px;
+  border-bottom: 1px solid #ddd;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000036}}
+.header .nav {
+  width: 1190px;
+  height: 60px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000311}}
+.header .nav .logo {
+  width: 203px;
+  height: 60px;
+  background: url(../img/1.png) no-repeat;
+  text-indent: -9999px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000318}}
+.header .nav .nav-n {
+  margin-left: 47px;
+  margin-top: 24px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000322}}
+.header .nav .nav-n li {
+  margin-right: 31px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000325}}
+.header .nav .nav-n li a {
+  font-size: 15px;
+  color: #222;
+  font-family: 'Microsoft YaHei';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000331}}
+.header .nav .nav-n li a:hover {
+  color: #e25f1b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000335}}
+.header .nav .nav-n li .first {
+  display: block;
+  width: 62px;
+  background: url(../img/2.png) no-repeat 55px 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000341}}
+.header .nav .nav-n li .last {
+  display: block;
+  width: 130px;
+  height: 37px;
+  text-indent: -9999px;
+  margin-top: -12px;
+  background: url(../img/3.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000350}}
+.header .nav .nav-n li .sale {
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000353}}
+.header .nav .nav-n li .sale .sale-img {
+  width: 55px;
+  height: 19px;
+  background: url(../img/4.png) no-repeat;
+  position: absolute;
+  left: -5px;
+  top: -15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000366}}
+.header .nav .login {
+  margin-top: 15px;
+  font-family: 'Microsoft YaHei';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000370}}
+.header .nav .login .login-l {
+  margin-right: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000373}}
+.header .nav .login .login-l a {
+  display: block;
+  width: 52px;
+  height: 23px;
+  border-right: 1px solid #222;
+  background: url(../img/5.png) no-repeat 0 3px;
+  padding-left: 38px;
+  padding-top: 9px;
+  font-size: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000385}}
+.header .nav .login .tel {
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000388}}
+.header .nav .login .tel a {
+  background: url(../img/6.png) no-repeat 0 3px;
+  padding-left: 16px;
+  color: #fd521d;
+  font-size: 16px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\0000399}}
+.banner {
+  width: 100%;
+  height: 351px;
+  background: #f9f5f4;
+  font-family: 'Microsoft YaHei';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003105}}
+.banner .banner-con {
+  width: 1190px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003109}}
+.banner .banner-con .banner-img {
+  width: 940px;
+  height: 351px;
+  background: url(../img/7.png) no-repeat;
+  text-indent: -999px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003116}}
+.banner .banner-con .list {
+  margin-top: 50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003119}}
+.banner .banner-con .list li {
+  width: 250px;
+  height: 60px;
+  background: #3c3b3b;
+  border-bottom: 1px solid #515052;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003125}}
+.banner .banner-con .list li a {
+  display: block;
+  width: 230px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 14px;
+  color: #fff;
+  padding-left: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003135}}
+.banner .banner-con .list li a:hover {
+  background: #29272a;
+  color: #e25f1b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003141}}
+.banner .banner-con .list .last {
+  border-bottom: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003148}}
+.content {
+  font-family: 'Microsoft YaHei';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003151}}
+.content .search {
+  width: 1190px;
+  height: 203px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003157}}
+.content .search .left .m3 {
+  width: 119px;
+  height: 145px;
+  background: url(../img/8.png) no-repeat;
+  text-indent: -9999px;
+  margin-top: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003165}}
+.content .search .left .l {
+  margin-top: 22px;
+  margin-left: 33px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003169}}
+.content .search .left .l .brand {
+  background: url(../img/10.png) no-repeat 0 3px;
+  padding-left: 26px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003173}}
+.content .search .left .l .brand li {
+  margin-right: 17px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003176}}
+.content .search .left .l .brand li a {
+  font-size: 12px;
+  color: #222;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003181}}
+.content .search .left .l .brand li a:hover {
+  color: #e25f1b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003185}}
+.content .search .left .l .brand li .last {
+  display: inline-block;
+  width: 36px;
+  background: url(../img/11.png) no-repeat 28px 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003193}}
+.content .search .left .l .price {
+  background: url(../img/12.png) no-repeat 0 6px;
+  padding-left: 26px;
+  margin-top: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003198}}
+.content .search .left .l .price li {
+  margin-right: 17px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003201}}
+.content .search .left .l .price li a {
+  font-size: 12px;
+  color: #222;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003206}}
+.content .search .left .l .price li a:hover {
+  color: #e25f1b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003212}}
+.content .search .left .l .type {
+  background: url(../img/13.png) no-repeat 0 5px;
+  padding-left: 26px;
+  margin-top: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003217}}
+.content .search .left .l .type li {
+  margin-right: 17px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003220}}
+.content .search .left .l .type li a {
+  font-size: 12px;
+  color: #222;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003225}}
+.content .search .left .l .type li a:hover {
+  color: #e25f1b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003229}}
+.content .search .left .l .type li .last {
+  color: #fd521d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003235}}
+.content .search .left .l .text {
+  margin-top: 21px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003238}}
+.content .search .left .l .text .box1 {
+  width: 213px;
+  height: 38px;
+  padding-left: 20px;
+  border: 1px solid #ddd;
+  font-size: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003246}}
+.content .search .left .l .text .box2 {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #ddd;
+  border-left: none;
+  background: url(../img/14.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003257}}
+.content .search .right {
+  height: 163px;
+  margin-top: 19px;
+  border-left: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003262}}
+.content .search .right .m4 {
+  width: 119px;
+  height: 145px;
+  background: url(../img/9.png) no-repeat;
+  text-indent: -9999px;
+  margin-left: 13px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003270}}
+.content .search .right .user {
+  margin-left: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003273}}
+.content .search .right .user p {
+  font-size: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003276}}
+.content .search .right .user p span {
+  font-size: 12px;
+  color: #666;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003280}}
+.content .search .right .user p span i {
+  color: #fd521d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003286}}
+.content .search .right .user .i1 {
+  width: 248px;
+  height: 38px;
+  border: 1px solid #ddd;
+  margin-top: 11px;
+  padding-left: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003294}}
+.content .search .right .user .i2 {
+  display: block;
+  width: 260px;
+  height: 40px;
+  background: #fd521d;
+  color: #fff;
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003303}}
+.content .search .right .user .plan {
+  margin-top: 16px;
+  font-size: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003307}}
+.content .search .right .user .plan span {
+  color: #acacac;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003311}}
+.content .search .right .user .plan input {
+  margin-left: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003319}}
+.content .mess {
+  width: 100%;
+  height: 315px;
+  background: #f2f2f3;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003324}}
+.content .mess .mess-m {
+  width: 1190px;
+  height: 315px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003329}}
+.content .mess .mess-m .mess-m-li {
+  height: 255px;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003334}}
+.content .mess .mess-m .mess-m-li .mess-m-a {
+  display: inline-block;
+  width: 230px;
+  height: 255px;
+  background: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003340}}
+.content .mess .mess-m .mess-m-li .mess-m-a h3 {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003346}}
+.content .mess .mess-m .mess-m-li .mess-m-a p {
+  font-size: 12px;
+  color: #666;
+  margin-left: 20px;
+  margin-top: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003353}}
+.content .mess .mess-m .mess-m-li .mess-m-a img {
+  margin-top: 40px;
+  margin-left: 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003358}}
+.content .mess .mess-m .mess-m-li .mess-m-a .third {
+  margin-top: 11px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003364}}
+.content .mess .mess-m .last {
+  width: 440px;
+  height: 255px;
+  background: #fff;
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003370}}
+.content .mess .mess-m .last ul {
+  margin-left: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003375}}
+.content .mess .mess-m .last a:hover {
+  color: #e25f1b;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003379}}
+.content .mess .mess-m .last .first {
+  margin-top: 24px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003384}}
+.content .mess .mess-m .last .first li .f1 {
+  font-size: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003388}}
+.content .mess .mess-m .last .first li .f2 {
+  display: inline-block;
+  width: 37px;
+  height: 18px;
+  background: url(../img/18.png) no-repeat;
+  margin-right: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003396}}
+.content .mess .mess-m .last .first li .f3 {
+  font-size: 12px;
+  color: #666;
+  margin-right: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003404}}
+.content .mess .mess-m .last .other {
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003409}}
+.content .mess .mess-m .last .other .title a {
+  background: url(../img/19.png) no-repeat 0 6px;
+  padding-left: 12px;
+  font-size: 14px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003418}}
+.content .mess .mess-m .last .other .autor a {
+  display: inline-block;
+  width: 63px;
+  height: 20px;
+  background: url(../img/20.png) no-repeat 43px 0;
+  margin-right: 20px;
+  font-size: 12px;
+  color: #bbb;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003428}}
+.content .mess .mess-m .last .other .autor .autor-a2 {
+  background: url(../img/21.png) no-repeat 43px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003432}}
+.content .mess .mess-m .last .other .autor .autor-a3 {
+  background: url(../img/22.png) no-repeat 43px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003438}}
+.content .mess .mess-m .last .cho {
+  margin-top: 18px;
+  width: 395px;
+  height: 38px;
+  border: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003446}}
+.content .mess .mess-m .last .cho li a {
+  display: inline-block;
+  width: 98px;
+  height: 38px;
+  font-size: 12px;
+  text-align: center;
+  line-height: 38px;
+  border-right: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003456}}
+.content .mess .mess-m .last .cho li .last {
+  border-right: none;
+  margin-top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003466}}
+.content .cars {
+  width: 100%;
+  height: 858px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003470}}
+.content .cars .case {
+  width: 1190px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003474}}
+.content .cars .case .kind {
+  width: 990px;
+  height: 60px;
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003480}}
+.content .cars .case .kind li {
+  width: 197px;
+  height: 60px;
+  border-right: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003485}}
+.content .cars .case .kind li a {
+  display: inline-block;
+  width: 197px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  font-size: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003496}}
+.content .cars .case .sa {
+  margin-top: 24px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003499}}
+.content .cars .case .sa li {
+  padding: 1px;
+  width: 286px;
+  height: 326px;
+  border: 1px solid #fff;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003507}}
+.content .cars .case .sa li a {
+  display: inline-block;
+  width: 286px;
+  height: 326px;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003513}}
+.content .cars .case .sa li a h4 {
+  font-size: 12px;
+  margin-top: 214px;
+  margin-left: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003519}}
+.content .cars .case .sa li a p {
+  margin-top: 12px;
+  margin-left: 8px;
+  font-size: 10px;
+  color: #999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003525}}
+.content .cars .case .sa li a p b {
+  display: inline-block;
+  width: 30px;
+  height: 17px;
+  background: #32b16c;
+  color: #fff;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003534}}
+.content .cars .case .sa li a p span {
+  display: inline-block;
+  width: 30px;
+  height: 17px;
+  background: #ff6800;
+  color: #fff;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003543}}
+.content .cars .case .sa li a p strong {
+  display: inline-block;
+  width: 42px;
+  height: 17px;
+  background: #00a1e9;
+  color: #fff;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003553}}
+.content .cars .case .sa li a h3 {
+  color: #fd521d;
+  font-size: 18px;
+  margin-left: 8px;
+  margin-top: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003559}}
+.content .cars .case .sa li a h3 span {
+  font-size: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003564}}
+.content .cars .case .sa li a h5 {
+  font-size: 12px;
+  color: #999;
+  margin-left: 8px;
+  margin-top: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003570}}
+.content .cars .case .sa li a h5 span {
+  text-decoration: line-through;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003575}}
+.content .cars .case .sa li a i {
+  display: block;
+  width: 34px;
+  height: 20px;
+  border: 1px solid #fd521d;
+  position: absolute;
+  left: 216px;
+  top: 279px;
+  background: url(../img/31.png) no-repeat 6px 4px;
+  padding-left: 26px;
+  color: #fd521d;
+  font-size: 12px;
+  padding-top: 3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003591}}
+.content .cars .case .sa li .sa-1 {
+  background: url(../img/23.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003595}}
+.content .cars .case .sa li .sa-2 {
+  background: url(../img/24.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003599}}
+.content .cars .case .sa li .sa-3 {
+  background: url(../img/25.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003603}}
+.content .cars .case .sa li .sa-4 {
+  background: url(../img/26.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003607}}
+.content .cars .case .sa li .sa-5 {
+  background: url(../img/27.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003611}}
+.content .cars .case .sa li .sa-6 {
+  background: url(../img/28.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003615}}
+.content .cars .case .sa li .sa-7 {
+  background: url(../img/29.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003619}}
+.content .cars .case .sa li .sa-8 {
+  background: url(../img/30.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003624}}
+.content .cars .case .sa li:hover {
+  border: 1px solid #fd521d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003629}}
+.content .cars .case .sa .forth {
+  margin-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003634}}
+.content .cars .case .more {
+  width: 188px;
+  height: 46px;
+  border: 1px solid #fd521d;
+  display: block;
+  color: #fd521d;
+  font-size: 18px;
+  font-family: 'Microsoft YaHei';
+  margin: 40px auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003645}}
+.content .cars .case .more:hover {
+  background: #fd521d;
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003652}}
+.content .shadow {
+  width: 100%;
+  height: 30px;
+  background: #f2f2f2;
+  margin-top: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003659}}
+.content .story {
+  width: 100%;
+  height: 226px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003663}}
+.content .story .story-main {
+  width: 1190px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003667}}
+.content .story .story-main .left {
+  width: 751px;
+  margin-top: 19px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003672}}
+.content .story .story-main .left .top p {
+  font-size: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003675}}
+.content .story .story-main .left .top p .more {
+  font-size: 12px;
+  color: #666;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003680}}
+.content .story .story-main .left .top p .more:hover {
+  color: #fd521d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003686}}
+.content .story .story-main .left .top .r a {
+  display: inline-block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003690}}
+.content .story .story-main .left .top .r .r1 {
+  width: 20px;
+  height: 20px;
+  background: url(../img/32.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003696}}
+.content .story .story-main .left .top .r .r2 {
+  width: 6px;
+  height: 6px;
+  background: url(../img/33.png) no-repeat;
+  padding-top: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003703}}
+.content .story .story-main .left .top .r .r3 {
+  width: 6px;
+  height: 6px;
+  background: url(../img/34.png) no-repeat;
+  padding-top: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003710}}
+.content .story .story-main .left .top .r .r4 {
+  width: 6px;
+  height: 6px;
+  background: url(../img/34.png) no-repeat;
+  padding-top: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003717}}
+.content .story .story-main .left .top .r .r5 {
+  width: 20px;
+  height: 20px;
+  background: url(../img/35.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003725}}
+.content .story .story-main .left .down {
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003728}}
+.content .story .story-main .left .down li {
+  width: 350px;
+  height: 120px;
+  margin-right: 50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003733}}
+.content .story .story-main .left .down li .down1 {
+  display: inline-block;
+  width: 180px;
+  height: 120px;
+  margin-right: 10px;
+  background: url(../img/36.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003742}}
+.content .story .story-main .left .down li .down2 h2 {
+  font-size: 16px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003746}}
+.content .story .story-main .left .down li .down2 p {
+  font-size: 12px;
+  color: #999;
+  margin-top: 20px;
+  line-height: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003755}}
+.content .story .story-main .left .down .sec {
+  margin-right: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003758}}
+.content .story .story-main .left .down .sec .down3 {
+  display: inline-block;
+  width: 180px;
+  height: 120px;
+  margin-right: 10px;
+  background: url(../img/37.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003769}}
+.content .story .story-main .right {
+  margin-top: 19px;
+  margin-left: 80px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003773}}
+.content .story .story-main .right h3 {
+  font-size: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003777}}
+.content .story .story-main .right .rep {
+  margin-top: 26px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003780}}
+.content .story .story-main .right .rep li {
+  margin-bottom: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003783}}
+.content .story .story-main .right .rep li a {
+  font-size: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003786}}
+.content .story .story-main .right .rep li a img {
+  vertical-align: middle;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003791}}
+.content .story .story-main .right .rep li a:hover {
+  color: #fd521d;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003801}}
+.footer {
+  width: 100%;
+  background: #f8f8f8;
+  font-family: 'Microsoft YaHei';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003806}}
+.footer .footer-main {
+  width: 1190px;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003810}}
+.footer .footer-main .safe {
+  height: 98px;
+  margin-top: 3px;
+  border-bottom: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003815}}
+.footer .footer-main .safe li {
+  margin: 36px 48px;
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003821}}
+.footer .footer-main .about {
+  height: 160px;
+  margin-top: 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003825}}
+.footer .footer-main .about .a1 {
+  margin-top: 8px;
+  margin-right: 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003830}}
+.footer .footer-main .about .a1 ul .a1-1 {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003836}}
+.footer .footer-main .about .a1 ul .a1-2 {
+  margin-bottom: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003839}}
+.footer .footer-main .about .a1 ul .a1-2 a {
+  font-size: 12px;
+  color: #999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003847}}
+.footer .footer-main .about .fiv {
+  margin-top: 50px;
+  margin-left: -50px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003851}}
+.footer .footer-main .about .fiv li {
+  margin-bottom: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003854}}
+.footer .footer-main .about .fiv li a {
+  font-size: 12px;
+  color: #999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003861}}
+.footer .footer-main .about .er {
+  margin-left: 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003864}}
+.footer .footer-main .about .er .wei {
+  width: 120px;
+  margin-right: 22px;
+  text-align: center;
+  font-size: 12px;
+  color: #999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003871}}
+.footer .footer-main .about .er .wei p {
+  margin-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003877}}
+.footer .footer-main .about .rela {
+  margin-left: 30px;
+  margin-top: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003881}}
+.footer .footer-main .about .rela h1 {
+  height: 30px;
+  padding-left: 50px;
+  font-size: 12px;
+  color: #333;
+  padding-top: 6px;
+  background: url(../img/45.png) no-repeat;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003890}}
+.footer .footer-main .about .rela h2 {
+  margin-left: 50px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  font-size: 12px;
+  color: #999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003898}}
+.footer .footer-main .about .rela .lian {
+  margin-left: 50px;
+  margin-top: 10px;
+  width: 188px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003903}}
+.footer .footer-main .about .rela .lian li {
+  margin-right: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003906}}
+.footer .footer-main .about .rela .lian li a {
+  display: inline-block;
+  height: 18px;
+  font-size: 12px;
+  color: #999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003917}}
+.footer .footer-main .word {
+  margin-top: 15px;
+  height: 69px;
+  border-bottom: 1px solid #eee;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003924}}
+.footer .footer-main .word .abc p {
+  font-size: 18px;
+  margin-right: 6px;
+  margin-top: 8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003930}}
+.footer .footer-main .word .abc li {
+  width: 37px;
+  height: 37px;
+  border: 1px solid #ddd;
+  margin-right: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003936}}
+.footer .footer-main .word .abc li a {
+  display: block;
+  width: 37px;
+  height: 37px;
+  font-size: 14px;
+  color: #675449;
+  line-height: 37px;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003946}}
+.footer .footer-main .word .abc li a:hover {
+  color: #fd521d;
+  background: #ffede8;
+  border: 1px solid #ffddd3;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003955}}
+.footer .footer-main .city {
+  margin-top: 30px;
+  heigth: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003959}}
+.footer .footer-main .city li {
+  padding-right: 25px;
+  border-right: 1px solid #ddd;
+  font-size: 14px;
+  margin-right: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003966}}
+.footer .footer-main .city .first {
+  color: #fd521d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003971}}
+.footer .footer-main .no {
+  margin-top: 22px;
+  font-size: 12px;
+  color: #666;
+  line-height: 24px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003980}}
+.footer .w {
+  width: 100%;
+  height: 59px;
+  background: #272c2e;
+  margin-top: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003986}}
+.footer .w p {
+  font-size: 12px;
+  color: #999;
+  text-align: center;
+  line-height: 60px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\00003995}}
+.fix {
+  width: 336px;
+  height: 50px;
+  background: #666;
+  position: fixed;
+  bottom: 0;
+  right: 50px;
+  font-family: 'Microsoft YaHei';
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031005}}
+.fix .f-1 a {
+  display: block;
+  border-right: 1px solid #999;
+  color: #fff;
+  font-size: 16px;
+  padding: 18px 14px 14px 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031014}}
+.fix .f-2 {
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031017}}
+.fix .f-2 .w {
+  display: block;
+  border-right: 1px solid #999;
+  background: #fd521d;
+  color: #fff;
+  font-size: 18px;
+  padding: 16px 12px 13px 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031026}}
+.fix .f-2 .on {
+  background: #666;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031030}}
+.fix .f-2 .app {
+  position: absolute;
+  top: -182px;
+  left: -28px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031038}}
+.fix .f-3 a {
+  display: block;
+  border-right: 1px solid #999;
+  color: #fff;
+  font-size: 16px;
+  padding: 18px 10px 16px 11px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/asus\/Desktop\/car\/css\/index\.scss}line{font-family:\000031048}}
+.fix .f-4 a {
+  display: block;
+  padding: 18px 12px 10px 15px;
+}

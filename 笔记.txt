@@ -1,0 +1,136 @@
+=============
+2017年3月16日
+=============
+1、准备面试开场白
+    最后一周，模拟面试
+2、每两周一个项目
+    阔人
+3、每天通过面试题复习缺失的知识
+4、每天晚上路上休息的时候两三个人相互模拟介绍项目经验，以及除了问题的应对办法
+    这个项目几个人（前端几个，后台，ui，产品，测试几个）写的
+    多长时间完成的
+    你在里面干什么
+    项目中遇到了什么问题
+    用的什么技术开发的
+    自动化工具，常用的框架，库用的什么
+5、整理行业的知识架构
+    一个产品的出现（一个互联网公司），需要那些人，这些人都是干什么的，这个产品从没有到上线都经历什么
+6、整理文章
+
+7、搜索基本常见的这方面的书抽空去看，没有时间也要知道以后看
+8、整理个人站、梳理整个知识体系，差用插件，库
+--------------
+项目：
+    你们会拿到原型
+    先看功能、然后前后台对接口
+
+    1、地区搜索
+        前端要什么：
+            周边
+            热门
+            已有
+            ajax({
+                url:'getCity',
+                data:{
+                    pos:''
+                }
+            })
+            return {
+                error   0 成功  1失败
+                data{
+                    periphery []
+                    hot []
+                    baseCity:{
+                        b:[],
+                        c:[],
+                        d:[],
+                        e:[]
+                    }
+                }
+            }
+    2、banner图
+        ajax({
+            url:getBanner
+            data{}
+        })
+        return {
+            error,
+            data:[{src,link},{},{}]
+        }
+    3、车型（死的）
+    4、关键字搜索
+        关键字 拼音 首字母
+        ajax({
+            url:'Keyword',
+            data:{wd}
+        })
+        return {
+            error:
+            data:[]
+        }
+        直接写假数据
+    5、热门车
+        ajax({
+            url:'getHot',
+            data:{},
+        })
+        标签：0超值 1、里程少2、准新车3,
+        return {
+            error
+            data:[{src,link,name,data,公里数,价钱，新车价，标签种类:[0,1,3]},{}...]
+        }
+        -------------
+        id
+        src
+        link
+        name
+        data
+    6、车主故事
+        ajax({
+            url:story
+        })
+        return {
+            error,
+            data:[{src,link,title,con},{},{}]
+        }
+        -------------
+        id
+        link
+        title
+        src
+        con
+    7、论坛
+        ajax({
+            url:forum
+        })
+        return{
+            error,
+            data:[{link,title},{}]
+        }
+        -------------
+        id
+        link
+        title
+    8、媒体报道
+        ajax({
+            url:report
+        })
+        return{
+            error,
+            data:[{link,title},{},{},{}]
+        }
+        -------------
+        id
+        link
+        title
+
+
+
+
+
+
+
+
+
+
+
